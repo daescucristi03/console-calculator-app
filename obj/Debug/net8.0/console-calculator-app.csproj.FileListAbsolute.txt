@@ -1,0 +1,15 @@
+F:\cs\console-calculator-app\bin\Debug\net8.0\console-calculator-app.exe
+F:\cs\console-calculator-app\bin\Debug\net8.0\console-calculator-app.deps.json
+F:\cs\console-calculator-app\bin\Debug\net8.0\console-calculator-app.runtimeconfig.json
+F:\cs\console-calculator-app\bin\Debug\net8.0\console-calculator-app.dll
+F:\cs\console-calculator-app\bin\Debug\net8.0\console-calculator-app.pdb
+F:\cs\console-calculator-app\obj\Debug\net8.0\console-calculator-app.csproj.AssemblyReference.cache
+F:\cs\console-calculator-app\obj\Debug\net8.0\console-calculator-app.GeneratedMSBuildEditorConfig.editorconfig
+F:\cs\console-calculator-app\obj\Debug\net8.0\console-calculator-app.AssemblyInfoInputs.cache
+F:\cs\console-calculator-app\obj\Debug\net8.0\console-calculator-app.AssemblyInfo.cs
+F:\cs\console-calculator-app\obj\Debug\net8.0\console-calculator-app.csproj.CoreCompileInputs.cache
+F:\cs\console-calculator-app\obj\Debug\net8.0\console-calculator-app.dll
+F:\cs\console-calculator-app\obj\Debug\net8.0\refint\console-calculator-app.dll
+F:\cs\console-calculator-app\obj\Debug\net8.0\console-calculator-app.pdb
+F:\cs\console-calculator-app\obj\Debug\net8.0\console-calculator-app.genruntimeconfig.cache
+F:\cs\console-calculator-app\obj\Debug\net8.0\ref\console-calculator-app.dll
