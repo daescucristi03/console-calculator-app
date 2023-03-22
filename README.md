@@ -22,7 +22,7 @@ Visual Studio Code installed on your machine
 
 1. Clone this repository to your local machine.
 2. Open the repository in Visual Studio Code.
-3. Open the integrated terminal in Visual Studio Code (Ctrl + Shift + ).
+3. Open the integrated terminal in Visual Studio Code (Ctrl + Shift + `).
 4. Build the app using the .NET SDK (dotnet build).
 
 ## Usage
