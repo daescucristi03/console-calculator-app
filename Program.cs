@@ -16,12 +16,7 @@ namespace Calculator {
             }
         }
 
-
-        static void Main(string[] args) {
-            // create an instance of the program
-            Program prog = new Program();
-            Console.Clear();
-
+        private void handleUserInput() {
             double result = 0;
             bool isRunning = true;
 
@@ -37,16 +32,16 @@ namespace Calculator {
 
                 switch (op) {
                     case "+":
-                        result = prog.addition(num1, num2);
+                        result = addition(num1, num2);
                         break;
                     case "-":
-                        result = prog.addition(num1, num2 * (-1));
+                        result = addition(num1, num2 * (-1));
                         break;
                     case "*":
-                        result = prog.multiplication(num1, num2);
+                        result = multiplication(num1, num2);
                         break;
                     case "/":
-                        result = prog.division(num1, num2);
+                        result = division(num1, num2);
                         break;
                     default:
                         Console.WriteLine("Invalid operator");
@@ -63,6 +58,16 @@ namespace Calculator {
                 }
                 Console.Clear();
             }
+        }
+
+
+        static void Main(string[] args) {
+            // create an instance of the program
+            Program prog = new Program();
+            Console.Clear();
+
+            prog.handleUserInput();
+            
         }
     }
 }
