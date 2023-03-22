@@ -14,8 +14,8 @@ Division (/)
 
 ## Requirements
 ```
-1. .NET SDK installed on your machine
-2. Visual Studio Code installed on your machine
+.NET SDK installed on your machine
+Visual Studio Code installed on your machine
 ```
 
 ## Installation
